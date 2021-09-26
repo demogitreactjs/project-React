@@ -1,0 +1,14 @@
+.ChildCompo{
+    width: 250px;   
+    background: lightblue;
+    padding:10px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 20px;
+}
+.ChildCompo h1{
+    font-size: 15px;
+    color:white;
+    text-transform: uppercase;
+    text-shadow: 0 0 4px black;
+}
